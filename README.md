@@ -55,7 +55,7 @@ Account Executive
 **Uber** (June 2021 to July 2022)  
 Account Executive (6 months), Senior Account Executive (7 months)
 
-- Managed complex contract negotiations, specifically including sustainable economics for both parties, with
+- Managed complex contract negotiations, ensuring sustainable economics for both parties, with
 knowledgeable and experienced prospects.
 - Leverage prospecting skills and relationships to build partnerships with the UK &amp; Ireland’s top-tier
 restaurants across strategically selected markets.
