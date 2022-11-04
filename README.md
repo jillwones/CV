@@ -105,7 +105,8 @@ Feel free to checkout my GitHub here: www.github.com/jillwones
 - A-Levels - Biology, Chemistry and Physics: A*AA
 - Participant in [Project M](https://www.diamond.ac.uk/ProjectM.html)
 
-
+## 🏋️‍♂️ Hobbies
+[Write about a couple of my hobbies]
 
 ## :speech_balloon: Connect with me
 <div align="center">
