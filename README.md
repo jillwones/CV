@@ -1,9 +1,13 @@
 <br/>
 
-### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hello+everyone!+My+name+is+Will+Jones+%3A);Welcome+to+my+GitHub+CV" alt="Typing SVG" /></a></div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hello+everyone!+My+name+is+Will+Jones+%3A);Welcome+to+my+GitHub+CV" alt="Typing SVG" /></a>
+</div>
 
 ## :book: About Me      
+
 [probably change the format of this section to be more descriptive, why I decided to take the leap into software engineering, more on my background etc]
+
 - 🎓 Graduated in 2021 with a degree in chemistry.
 - 🌆 Decided I wanted to live in London so I got myself a job in sales at Uber.
 - 🙅 I quite quickly discovered sales wasn't for me... I almost just as quickly discovered the world of software engineering and decided this **was** the world for me.
@@ -22,6 +26,7 @@
 | TBC    |TBC      | TBC|      TBC      |
 | TBC    |TBC   |     TBC|        TBC    |
 | TBC | TBC | TBC | TBC
+            
 </div>
 
 <br/>
