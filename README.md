@@ -1,77 +1,130 @@
-## Your Name
+<br/>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hello+everyone!+My+name+is+Will+Jones+%3A);Welcome+to+my+GitHub+CV" alt="Typing SVG" /></a></div>
 
-## Projects
+## :book: About Me
+- 🎓 Graduated in 2021 with a degree in chemistry.
+- 🌆 Decided I wanted to live in London so I got myself a job in sales at Uber.
+- 🙅 I quite quickly discovered sales wasn't for me... I almost just as quickly discovered the world of software engineering and decided this **was** the world for me.
+- 🏦 I moved into another sales role at Revolut to save up as quickly as I could (career changes are rather expensive).
+- 💻 As soon as I was able to, I left Revolut to start my software engineering journey with Makers!
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## :rocket: Projects I have built (TBC)
 
-## Work Experience
+<br/>
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+<div align="center">
+            
+| Name         | Description |      Tech       |  Testing   |
+|--------------|:-----------:|:---------------:|       -----|
+| TBC    |TBC|TBC       |      TBC       | 
+| TBC    |TBC      | TBC|      TBC      |
+| TBC    |TBC   |     TBC|        TBC    |
+| TBC | TBC | TBC | TBC
+</div>
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+<br/>
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+## 🤔 Skills (To Do)
 
-- Any experience relevent to software development
+Write a small paragraph for each - use examples to demonstrate the skill, use STAR method
 
-## Skills
+#### Analytical Thinker
+[Insert why I'm an analytical thinker]
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Strong Communicator
+[Insert why I'm a strong communicator]
 
--STAR
--What was the situation/task? (ST)
+#### Lifelong Learner
+[Insert why I'm a lifelong learner]
 
--How was the skill used?
+#### Team-Player
+[Insert why I'm a team player]
 
--What did you do? (action)
+#### Adaptable
+[Insert why I'm adaptable]
 
--What was the result?
+## :computer: Work Experience
+
+**Revolut** (July 2022 to November 2022)  
+Account Executive
+
+- Sold Revolut Business to businesses that generate ~£30 million in revenue
+- I left Revolut rank 3/45 for my cohort in terms of performance
+
+**Uber** (June 2021 to July 2022)  
+Account Executive (6 months), Senior Account Executive (7 months)
+
+- Managed complex contract negotiations, specifically including sustainable economics for both parties, with
+knowledgeable and experienced prospects.
+- Leverage prospecting skills and relationships to build partnerships with the UK &amp; Ireland’s top-tier
+restaurants across strategically selected markets.
+- Clearly communicated the value of Uber and its newest products to prospective restaurant partners.
+- Managed the whole sales cycle (outreach, fact finding, building value, closing) for businesses with 1-5
+locations.
+- Consistently exceeded targets. Achieved 124% of my target in Q3 of 2021 and 126% of my target for Q4
+of 2021. In Q1 2022 the restaurants I onboarded generated over £250,000 in their first 28 days of trading,
+generating ~£70,000 of revenue for Uber - this was the highest value in my team of 15.
+- Assisted with the onboarding process of new Uber employees - liaised with the Sales Enablement
+Manager, to create practice sessions for sales pitches, shadowing sessions for real-time experience, and
+open office-hours, making myself available to help new employees.
 
 
-#### This Skill
+## :scientist: Education
 
-- Experience
-- Achievements
-- Evidence (STAR)
+#### Makers Academy (October 2022 - January 2023)
+- 🖥 Currently studying at Makers Academy - Europe's leading 16 week software developent bootcamp, focusing on:
+    - Agile/XP
+    - OOP, TDD, MVS, SVC, DDD, SOLID principles
+    - Pair programming + team collaboration
+    - Software Craftsmanship
+    - Ruby, Rails, Sinatra, Javascript, React, Node.js
+    - RSpec, Jasmine, Mocha, Jest, Enzyme, Cypress, Capybara
+    - MongoDB, PostgresSQL
 
-#### Another Skill
+I decided it would be a good idea (not my idea really, but a good one nonetheless) to start a blog whilst here at Makers to document my experience and learning, check out my latest post here:    
+<div align="center">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0" alt="Recent Article 0" align="center"> 
+</div>
+<div align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0"><img src="ttps://github-readme-medium-recent-article.vercel.app/medium/@willj836/0" align="center" /></div>  
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+Feel free to checkout my GitHub here: www.github.com/jillwones 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+---
 
-## Education
+#### University of Sussex (September 2018 – July 2021)
+- Bachelor of Science in Chemistry
+- 1st Class
+- Dissertation title: An Insight into the anti-bacterial properties of Molybdenum Trioxide and its Potential Applications
+- Favorite modules: Molecular Symmetry, Coordination Chemistry, Atmospheres and Interfaces, Protein Form and Function
+- Welfare Officer for the Sussex Chemistry Society
+            
+---
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### The College of Richmond Collyer (September 2016 – June 2018)
+- A-Levels - Biology, Chemistry and Physics: A*AA
+- Participant in [Project M](https://www.diamond.ac.uk/ProjectM.html)
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+## :speech_balloon: Connect with me
+<div align="center">
+<a href="https://github.com/jillwones" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/willj836" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/willj836" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/willj836" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>   
 
-That in some arguable way make you a better software developer or well-rounded person
+<br/>  
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif" align="center" style="width: 100%" />
+</div>  
