@@ -127,5 +127,5 @@ Feel free to checkout my GitHub here: www.github.com/jillwones
 <br/>  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/O3Bxs16.gif" align="center" style="width: 100%" />
 </div>  
