@@ -84,7 +84,7 @@ open office-hours, making myself available to help new employees.
 
 I decided it would be a good idea (not my idea really, but a good one nonetheless) to start a blog whilst here at Makers to document my experience and learning, check out my latest post here:    
 <div align="center">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0" alt="Recent Article 0" align="center"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0" alt="Recent Article 0"> 
 </div>
 <div align="center"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@willj836/0"><img src="ttps://github-readme-medium-recent-article.vercel.app/medium/@willj836/0" align="center" /></div>  
 
