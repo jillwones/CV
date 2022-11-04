@@ -111,11 +111,15 @@ Feel free to checkout my GitHub here: www.github.com/jillwones
 
 ## :speech_balloon: Connect with me
 <div align="center">
+
 <a href="https://github.com/jillwones" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/willj836" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=willj836@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=medium style="margin-bottom: 4px;" />
 </a>
 <a href="https://instagram.com/willj836" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -123,6 +127,7 @@ Feel free to checkout my GitHub here: www.github.com/jillwones
 <a href="https://medium.com/@willj836" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+
 </div>   
 
 <br/>  
