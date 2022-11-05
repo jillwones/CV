@@ -34,13 +34,13 @@
 
 ## 🤔 Skills (To Do)
 
-Write a small paragraph for each - use examples to demonstrate the skill, use STAR method
+Write a small paragraph for each - use examples to demonstrate the skill, use STAR method - probably only write about 2 or 3 of these
 
 #### Analytical Thinker
 [Insert why I'm an analytical thinker]
 
-#### Strong Communicator
-[Insert why I'm a strong communicator]
+#### Self Starter
+[Insert why I'm a self starter]
 
 #### Lifelong Learner
 [Insert why I'm a lifelong learner]
@@ -50,6 +50,9 @@ Write a small paragraph for each - use examples to demonstrate the skill, use ST
 
 #### Adaptable
 [Insert why I'm adaptable]
+
+#### Attention to Detail
+[Insert stuff here]
 
 ## :computer: Work Experience
 
