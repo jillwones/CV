@@ -8,6 +8,7 @@
 
 [probably change the format of this section to be more descriptive, why I decided to take the leap into software engineering, more on my background etc]
 
+- William Jones, willj836@gmail.com, 07379766090
 - 🎓 Graduated in 2021 with a degree in chemistry.
 - 🌆 Decided I wanted to live in London so I got myself a job in sales at Uber.
 - 🙅 I quite quickly discovered sales wasn't for me... I almost just as quickly discovered the world of software engineering and decided this **was** the world for me.
