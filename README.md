@@ -21,12 +21,12 @@
 
 <div align="center">
             
-| Name         | Description |      Tech       |  Testing   |
-|--------------|:-----------:|:---------------:|       -----|
-| TBC    |TBC|TBC       |      TBC       | 
-| TBC    |TBC      | TBC|      TBC      |
-| TBC    |TBC   |     TBC|        TBC    |
-| TBC | TBC | TBC | TBC
+| Name         | Description | Link to Deployed Site |      Tech       |  
+|--------------|:-----------:|:-------|:---------------:|       
+| [Chitter](https://github.com/jillwones/chitter-challenge)    | Simple clone of Twitter built in a weekend (Solo Challenge) |   [link](https://chitter-challenge.onrender.com/)    |      Ruby, RSpec, Sinatra, HTML, CSS, PostgreSQL, Render       | 
+| [MakersBnB](https://github.com/jillwones/makers-bnb)    | Clone of AirBnB designed and built in 5 days - Group Project      | [link]()|      Ruby, RSpec, Sinatra, HTML, CSS, PostgreSQL      |
+| [News Summary](https://github.com/jillwones/news-summary-challenge)    | A single-page application that displays articles from The Guardian (mobile friendly)   |     [link](https://news-guardian-api.netlify.app/)|        JavaScript, HTML, CSS, Jest    |
+| [Conway's Game of Life](https://github.com/jillwones/game-of-life) | Simulation of Conway's Game of Life - to be viewed fullscreen on a desktop or laptop | [link](https://game-of-life-willj836.netlify.app/) | JavaScript, HTML, CSS
             
 </div>
 
