@@ -15,18 +15,22 @@
 - 🏦 I moved into another sales role at Revolut to save up as quickly as I could (career changes are rather expensive).
 - 💻 As soon as I was able to, I left Revolut to start my software engineering journey with Makers!
 
-## :rocket: Projects I have built (TBC)
+## :rocket: Projects I have built 
 
 <br/>
 
 <div align="center">
             
-| Name         | Description | Link to Deployed Site |      Tech       |  
-|--------------|:-----------:|:-------|:---------------:|       
-| [Chitter](https://github.com/jillwones/chitter-challenge)    | Simple clone of Twitter built in a weekend (Solo Challenge) |   [link](https://chitter-challenge.onrender.com/)    |      Ruby, RSpec, Sinatra, HTML, CSS, PostgreSQL, Render       | 
-| [MakersBnB](https://github.com/jillwones/makers-bnb)    | Clone of AirBnB designed and built in 5 days - Group Project      | [link]()|      Ruby, RSpec, Sinatra, HTML, CSS, PostgreSQL      |
-| [News Summary](https://github.com/jillwones/news-summary-challenge)    | A single-page application that displays articles from The Guardian (mobile friendly)   |     [link](https://news-guardian-api.netlify.app/)|        JavaScript, HTML, CSS, Jest    |
-| [Conway's Game of Life](https://github.com/jillwones/game-of-life) | Simulation of Conway's Game of Life - to be viewed fullscreen on a desktop or laptop | [link](https://game-of-life-willj836.netlify.app/) | JavaScript, HTML, CSS
+| **Name**                                                                | **Description**                                                                                                                                                                                                                                                                                | **Tech**                                                          |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| **[Get Home Safe](https://github.com/jillwones/GetHomeSafe)**           | A mobile app that helps users get home safely. Features include signing up/logging in/out, adding emergency contacts, tracking journey home with timer, and sending SOS notifications with current location. Also includes a "Home Safe" option to notify emergency contacts of safe arrival.  | MongoDB, Express, React-Native, JavaScript, Jest, Google Maps API |
+| **[Acebook](https://github.com/jillwones/acebook-mern)**                | Social media site inspired by Facebook built with the MERN stack. Users are able to post, comment, like, add friends and edit their profile details.                                                                                                                                           | MongoDB, Express, React, JavaScript, Mongoose, CSS, Cypress, Jest |
+| **[News Summary](https://github.com/jillwones/news-summary-challenge)** | A single-page application for the latest news from the Guardian - mobile responsive + search functionality.                                                                                                                                                                                    | HTML, CSS, JavaScript, Jest, Netlify                              |
+| **[MakersBnB](https://github.com/jillwones/makers-bnb)**                | An Airbnb clone that allows users to create, view and book listings, with basic chat functionality for hosts and guests, and text notifications via Twilio API.                                                                                                                                | Ruby, RSpec, Sinatra, HTML, CSS, PostgreSQL, Twilio API           |
+| **[Conway's Game of Life](https://github.com/jillwones/game-of-life)**  | A browser based simulation of Conway’s Game of Life.                                                                                                                                                                                                                                           | HTML, CSS, JavaScript, Jest, Netlify                              |
+| **[Chitter](https://github.com/jillwones/chitter-challenge)**           | Simple clone of Twitter built in a weekend.                                                                                                                                                                                                                                                     | Ruby, RSpec, Sinatra, HTML, CSS, PostgreSQL, Render               |
+| **[Bank Tech Test](https://github.com/jillwones/bank_tech_test)**       | A tech test demonstrating TDD and OOP skills.                                                                                                                                                                                                                                                   | JavaScript, Jest                                                  |
+
             
 </div>
 
