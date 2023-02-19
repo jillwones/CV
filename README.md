@@ -6,8 +6,6 @@
 
 ## :book: About Me      
 
-[probably change the format of this section to be more descriptive, why I decided to take the leap into software engineering, more on my background etc]
-
 - William Jones, willj836@gmail.com, 07379766090
 - 🎓 Graduated in 2021 with a degree in chemistry.
 - 🌆 Decided I wanted to live in London so I got myself a job in sales at Uber.
@@ -63,26 +61,18 @@ Write a small paragraph for each - use examples to demonstrate the skill, use ST
 **Revolut** (July 2022 to November 2022)  
 Account Executive
 
-- Sold Revolut Business to businesses that generate ~£30 million in revenue
-- I left Revolut rank 3/45 for my cohort in terms of performance
+- Demonstrated strong interpersonal skills in building and maintaining relationships with business clients, leading to successful sales of Revolut Business to businesses generating ~£30 million in revenue.
+- Collaborated with cross-functional teams to provide exceptional customer experience to clients.
+- Demonstrated effective communication skills by presenting product features and benefits to different stakeholders and effectively addressing their
+needs and concerns.
+- Rank 3/45 for my cohort in terms of performance.
 
 **Uber** (June 2021 to July 2022)  
 Account Executive (6 months), Senior Account Executive (7 months)
 
-- Managed complex contract negotiations, ensuring sustainable economics for both parties, with
-knowledgeable and experienced prospects.
-- Leverage prospecting skills and relationships to build partnerships with the UK &amp; Ireland’s top-tier
-restaurants across strategically selected markets.
-- Clearly communicated the value of Uber and its newest products to prospective restaurant partners.
-- Managed the whole sales cycle (outreach, fact finding, building value, closing) for businesses with 1-5
-locations.
-- Consistently exceeded targets. Achieved 124% of my target in Q3 of 2021 and 126% of my target for Q4
-of 2021. In Q1 2022 the restaurants I onboarded generated over £250,000 in their first 28 days of trading,
-generating ~£70,000 of revenue for Uber - this was the highest value in my team of 15.
-- Assisted with the onboarding process of new Uber employees - liaised with the Sales Enablement
-Manager, to create practice sessions for sales pitches, shadowing sessions for real-time experience, and
-open office-hours, making myself available to help new employees.
-
+- Consistently exceeded sales targets, achieving 124% of target in Q3 2021 and 126% of target in Q4 2021.
+- Leveraged prospecting skills and relationships to build partnerships with the UK & Ireland’s top-tier restaurants across strategically selected markets.
+- Assisted with the onboarding process of new employees.
 
 ## :scientist: Education
 
@@ -116,9 +106,6 @@ Feel free to checkout my GitHub here: www.github.com/jillwones
 #### The College of Richmond Collyer (September 2016 – June 2018)
 - A-Levels - Biology, Chemistry and Physics: A*AA
 - Participant in [Project M](https://www.diamond.ac.uk/ProjectM.html)
-
-## 🏋️‍♂️ Hobbies
-[Write about a couple of my hobbies]
 
 ## :speech_balloon: Connect with me
 <div align="center">
