@@ -35,27 +35,21 @@ Overall, I am confident that I have the skills and experience to make a valuable
 
 <br/>
 
-## 🤔 Skills (To Do)
+## 🤔 Skills
 
-Write a small paragraph for each - use examples to demonstrate the skill, use STAR method - probably only write about 2 or 3 of these
+Quick learner - I have a talent for rapidly and efficiently acquiring new technologies and practices. During my time at Makers Academy, I eagerly tackled challenges such as creating a two-week final project in React-Native, despite having no prior experience in mobile development.
 
-#### Analytical Thinker
-[Insert why I'm an analytical thinker]
+Analytical thinking - My background in chemistry has honed my problem-solving skills and given me a strong foundation in analytical thinking. These skills have proven highly transferable to software engineering, where I am able to apply my scientific knowledge to solve complex technical challenges.
 
-#### Self Starter
-[Insert why I'm a self starter]
+Adaptability - I thrive in new and diverse environments, and I am unfazed by the prospect of learning new programming languages, working with new teams, or taking on unfamiliar challenges. I view every new experience as an opportunity for growth and development.
 
-#### Lifelong Learner
-[Insert why I'm a lifelong learner]
+Curiosity - I am deeply passionate about learning and constantly strive to explore new areas of development and code craftsmanship. My time at Makers Academy has only reinforced my desire to broaden my knowledge and deepen my understanding of software engineering.
 
-#### Team-Player
-[Insert why I'm a team player]
+Enthusiasm - I am highly motivated and eager to take on challenges, even if they are difficult or time-consuming. I am not afraid to dive in and get my hands dirty in pursuit of a goal.
 
-#### Adaptable
-[Insert why I'm adaptable]
+Team player - I am comfortable working as part of a team and am able to adapt to different roles, whether that means taking on leadership responsibilities or working collaboratively with others to achieve a common goal.
 
-#### Attention to Detail
-[Insert stuff here]
+Commitment - I completed the three-month Makers Academy coding bootcamp as a remote student, which required a great deal of self-discipline and focus. I am deeply committed to my work and take pride in seeing tasks through to completion.
 
 ## :computer: Work Experience
 
