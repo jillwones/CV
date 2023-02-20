@@ -6,12 +6,13 @@
 
 ## :book: About Me      
 
-- William Jones, willj836@gmail.com, 07379766090
-- 🎓 Graduated in 2021 with a degree in chemistry.
-- 🌆 Decided I wanted to live in London so I got myself a job in sales at Uber.
-- 🙅 I quite quickly discovered sales wasn't for me... I almost just as quickly discovered the world of software engineering and decided this **was** the world for me.
-- 🏦 I moved into another sales role at Revolut to save up as quickly as I could (career changes are rather expensive).
-- 💻 As soon as I was able to, I left Revolut to start my software engineering journey with Makers!
+***William Jones, willj836@gmail.com, 07379766090***
+
+I am a passionate full-stack engineer with a deep passion for problem-solving. As a recent graduate of the Makers Academy bootcamp, I have honed my problem-solving skills and am capable of quickly adapting to new technologies and frameworks.
+
+I am a logical thinker, skilled in collaboration, pair programming, and technical documentation. I value agile methodologies and enjoy working with teams that challenge me. My first-class degree in chemistry and experience in sales roles at Uber and Revolut have provided me with a unique perspective on problem-solving and enhanced my ability to communicate effectively with both technical and non-technical stakeholders.
+
+Overall, I am confident that I have the skills and experience to make a valuable contribution to any team, and I am eager to continue learning and growing as a developer.
 
 ## :rocket: Projects I have built 
 
