@@ -77,21 +77,15 @@ Account Executive (6 months), Senior Account Executive (7 months)
 
 ## :scientist: Education
 
-#### Makers Academy (October 2022 - January 2023)
-- 🖥 Currently studying at Makers Academy - Europe's leading 16 week software developent bootcamp, focusing on:
-    - Agile/XP
-    - OOP, TDD, MVS, SVC, DDD, SOLID principles
-    - Pair programming + team collaboration
-    - Software Craftsmanship
-    - Ruby, Rails, Sinatra, Javascript, React, Node.js
-    - RSpec, Jasmine, Mocha, Jest, Enzyme, Cypress, Capybara
-    - MongoDB, PostgresSQL
-
-I decided it would be a good idea (not my idea really, but a good one nonetheless) to start a blog whilst here at Makers to document my experience and learning, check out my latest post here:    
-
-[![Will Jones Medium](https://github-readme-medium.vercel.app/?username=willj836)](https://medium.com/@willj836)
-
-Feel free to checkout my GitHub here: www.github.com/jillwones 
+#### Makers Academy (November 2022 - February 2023)
+Europe's leading 16 week software developent bootcamp, focusing on:
+- Agile/XP
+- OOP, TDD, MVC, SOLID principles
+- Pair programming + team collaboration
+- Software Craftsmanship
+- Ruby, Sinatra, Javascript, Express, React, Node.js
+- RSpec, Jest, Cypress
+- MongoDB, PostgresSQL
 
 ---
 
@@ -131,6 +125,3 @@ Feel free to checkout my GitHub here: www.github.com/jillwones
 
 <br/>  
 
-<div align="center">
-<img src="https://i.imgur.com/O3Bxs16.gif" align="center" style="width: 100%" />
-</div>  
